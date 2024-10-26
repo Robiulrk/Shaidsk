@@ -35,9 +35,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61564523816700",
-    "61565025325331",
-    "100076969407340"
+    "100093774930731"
   ],
   "whiteListMode": {
     "enable": false,
@@ -48,8 +46,8 @@
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Ar Yan🍫",
-  "prefix": "*",
+  "nickNameBot": "ROBIUL KING",
+  "prefix": "/",
   "ArYanapi": "",
   "api": "",
   "api2": "",
